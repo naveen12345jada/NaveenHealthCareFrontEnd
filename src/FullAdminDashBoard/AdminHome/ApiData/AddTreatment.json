@@ -2,7 +2,7 @@
   "Treatments": [
     {
       "id": "5",
-      "treatment": "Nuero"
+      "treatment": "Nuer788"
     },
     {
       "id": "1",
@@ -11,10 +11,6 @@
     {
       "id": "2",
       "treatment": "Surgical Treatments"
-    },
-    {
-      "id": "3",
-      "treatment": "Radiation Therapy"
     },
     {
       "id": "4",

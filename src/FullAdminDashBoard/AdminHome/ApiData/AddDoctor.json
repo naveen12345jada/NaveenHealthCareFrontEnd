@@ -1,10 +1,6 @@
 {
   "Doctors": [
     {
-      "id": "100",
-      "Doctor": "Naveen Kumar"
-    },
-    {
       "id": "101",
       "Doctor": "Sujan"
     },
