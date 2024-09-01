@@ -30,7 +30,7 @@ import EditOffer2 from './AdminHome/Admin/AdminOffer/EditOffer2';
 import EditAppointment2 from './AdminHome/Admin/AdminAppointment/EditAppointment2';
 
 
-const App = () => {
+const Routing = () => {
   return (
   
       <Routes>
@@ -78,4 +78,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default Routing;
